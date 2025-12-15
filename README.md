@@ -22,6 +22,7 @@ Cada pasta contém:
 | Projeto | Descrição | Dataset | Link (imagem ou relatório) |
 |--------|-----------|---------|-----------------------------|
 | **Dashboard Contas à Pagar de Condomínios** | Análise de financeiro completa por condomínios, com destaque para contas à pagar | Dados fictícios |![dashboard-condominios](https://github.com/user-attachments/assets/bafd6a01-bdbe-4d51-a530-1f2725311419)|
+| **Dashboard População da América do Sul** | Análise de informações básicas sobre a população da América do Sul | Dados Reais |![dashboard-condominios| (https://app.powerbi.com/view?r=eyJrIjoiMWMxNjQyODUtYmRkZS00MTQzLWE0NjYtYWQ5MmRkMTMwYzQ5IiwidCI6IjVlNGNiM2M2LWJkZTEtNGI1ZC04OWU1LWRkYjNlOTU2ODkwMyJ9)|
 
 ## 🔧 Tecnologias e Ferramentas
 
